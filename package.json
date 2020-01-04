@@ -1,0 +1,27 @@
+{
+  "name": "capslock-tray-display",
+  "version": "1.0.0",
+  "description": "Display a notification on the tray of my computer when my caps lock is on or off",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotimi-best/capslock-tray-display.git"
+  },
+  "keywords": [
+    "electron",
+    "capslock"
+  ],
+  "author": "rotimi-best",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rotimi-best/capslock-tray-display/issues"
+  },
+  "homepage": "https://github.com/rotimi-best/capslock-tray-display#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
